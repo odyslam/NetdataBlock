@@ -10,8 +10,7 @@ assets:
 logo:
     type: blob.asset
     data:
-      url: >-
-        https://github.com/OdysLam/NetdataBlock/blob/main/logo.svg?raw=true
+      url: 'https://github.com/OdysLam/NetdataBlock/blob/main/logo.svg?raw=true'
 data:
   defaultDeviceType: raspberrypi4-64
   supportedDeviceTypes:
